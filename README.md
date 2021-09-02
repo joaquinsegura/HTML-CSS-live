@@ -1,3 +1,3 @@
-Tribute page: https://joaquinsegura.github.io/HTML-CSS-live/Tribute-page/
+<a href="https://joaquinsegura.github.io/HTML-CSS-live/Tribute-page/" target="_BLANK">Tribute page</a> 
 <br>
-Survey form: https://joaquinsegura.github.io/HTML-CSS-live/Survey-form/
+<a href="https://joaquinsegura.github.io/HTML-CSS-live/Survey-form/" target="_BLANK">Survey form</a>
